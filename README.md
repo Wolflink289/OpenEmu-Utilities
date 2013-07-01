@@ -29,6 +29,14 @@ Don't understand how to use a utility? Read below for help on how to use a utili
 </tr>
 
 <tr>
+    <td>scpt</td>
+    <td>
+        <b>1.</b> Open the file in AppleScript Editor.         <br>
+        <b>2.</b> Press the run button or press "Command + R".
+    </td>
+</tr>
+
+<tr>
     <td>sh</td>
     <td>
         <b>1.</b> Open a new window in <b>Terminal.app</b>.       <br>
